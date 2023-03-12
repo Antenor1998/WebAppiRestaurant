@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8lx4dle/+C8iUkOWo8/iaxK+5o0eGdaxrImgWqOGZjvhob10wk1Bn8Kb52SThvZ2ejWoMSMdvhppvUXC86+5Q==",
+  "success": true,
+  "projectFilePath": "/Users/antenorlopezmay/Documents/Antenor Lòpez May/Documentos/Net core/WebAppiRestaurant/WebAppiRestaurant.csproj",
+  "expectedPackageFiles": [
+    "/Users/antenorlopezmay/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/antenorlopezmay/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/antenorlopezmay/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/antenorlopezmay/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/antenorlopezmay/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/antenorlopezmay/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
